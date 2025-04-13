@@ -5,7 +5,7 @@ from tvDatafeed import TvDatafeed, Interval
 import time
 
 username = 'akdag.cagtay@yandex.com'
-password = 'emgebulancak2806.'
+password = '***.'
 
 tv = TvDatafeed(username, password)
 
