@@ -5,6 +5,11 @@ Bu çalışma, yalnızca teknik analiz göstergelerine dayalı algoritmik strate
 
 Borsa; bilgi, analiz ve strateji gerektiren, risk içeren bir yatırım ortamıdır. Şansa dayalı bir oyun veya kısa vadeli kazanç hedefiyle yaklaşmak, maddi kayıplara yol açabilir. Lütfen yatırım yaparken bilinçli, araştırmacı ve sorumlu bir yaklaşım benimseyiniz.
 
+## 🙏 Teşekkür ve Kaynak
+
+Bu projede kullanılan MA ADX göstergesi, TradingView platformunda capnOscar kullanıcı adıyla paylaşılan özel bir Pine Script indikatörüne dayanmaktadır.capnOscar’a bu katkısı için teşekkür ederim
+İlgili gösterge, geleneksel ADX hesaplamasına ağırlıklı ortalama (WMA) entegrasyonu ile daha rafine bir trend gücü sinyali sunmaktadır.
+Bu çalışmada, söz konusu gösterge Python diline çevrilmiş; ardından EMA19 göstergesiyle birlikte değerlendirilerek özgün bir al-sat stratejisi ve backtest sistemi geliştirilmiştir.
 
 
 ## 📌 Proje Tanımı
