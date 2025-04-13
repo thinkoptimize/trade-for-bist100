@@ -1,4 +1,4 @@
-# 📈 EMA ve ADX Tabanlı Teknik Alım-Satım Stratejisi Uygulaması
+# 📈 Python ile Teknik Göstergelere Dayalı Algoritmik Yatırım Stratejisi ve Performans Analizi
 
 ## ⚠️ Yasal Uyarı ve Bilgilendirme
 Bu çalışma, yalnızca teknik analiz göstergelerine dayalı algoritmik stratejilerin Python diliyle modellenmesini ve tarihsel veriler üzerinden test edilmesini amaçlamaktadır. Burada sunulan içerikler, hiçbir şekilde yatırım tavsiyesi niteliği taşımamaktadır. Yatırım kararlarınızı verirken, makroekonomik koşullar, şirket temelleri, sektörel dinamikler ve kişisel risk profiliniz gibi çok yönlü faktörleri dikkate almanız önem arz etmektedir.
